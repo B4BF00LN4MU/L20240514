@@ -1,0 +1,6 @@
+int i=65;
+cout<<(char)i;
+
+결과 : A
+
+int인데 char로 출력하는 형변환하는 법
